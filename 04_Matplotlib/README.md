@@ -1,3 +1,35 @@
+# Pandas → Data Manipulation
+Easily clean, transform, and analyze structured datasets with DataFrames.
+# NumPy → Numerical Computing
+Perform high-speed mathematical computations with arrays and matrices.
+# Matplotlib/Seaborn → Data Visualization
+Create insightful charts, graphs, and statistical plots to tell stories with data.
+# Scikit-learn → Machine Learning
+Implement algorithms like regression, clustering, and classification with ease.
+# TensorFlow / PyTorch → Deep Learning
+Build neural networks, train models, and power AI-driven applications.
+# SQLAlchemy → Database Interaction
+Work seamlessly with SQL databases using object-relational mapping.
+# Flask / Django → Web Development
+From lightweight APIs to full-scale applications, Python makes it simple.
+# BeautifulSoup / Scrapy → Web Scraping
+Extract data from websites and automate information gathering.
+# OpenCV → Computer Vision
+Recognize faces, detect objects, and process images in real-time.
+# NLTK / spaCy → Natural Language Processing
+Work with text, analyze sentiment, and build chatbots or language models.
+# PySpark → Big Data Processing
+Handle massive datasets across clusters with distributed computing.
+# FastAPI → API Development
+Build high-performance APIs with minimal code and maximum speed.
+# Jupyter Notebooks → Exploratory Data Analysis
+Interactive coding, visualization, and storytelling in one place.
+# Keras → Neural Network Models
+A user-friendly API to design and train deep learning models quickly.
+# PIL / Pillow → Image Processing
+Edit, enhance, and manipulate images with simple Python code.
+
+
 # Matplotlib and Data Visualization Using Python
 This folder contains a Python hands-on project focused on creating different statistical plots, visualizing relationships in data, and interpreting insights using Matplotlib, Seaborn, and Pandas.
 
